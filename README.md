@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gobarber" src="https://ik.imagekit.io/hwyksvj4iv/gofinances_FtYnL5e0v.svg" width="250px" />
+    <img alt="Finances" src="https://ik.imagekit.io/hwyksvj4iv/gofinances_FtYnL5e0v.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/matheuspires/image/upload/v1587663201/gofinances_m4poam.gif" />
+    <img alt="Finances" src="https://res.cloudinary.com/matheuspires/image/upload/v1587663201/gofinances_m4poam.gif" />
 </h1>
 
 ## :page_with_curl: Sobre
@@ -28,15 +28,6 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
 - Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
 <!-- - Um dispositivo ou emulador iOS ou Android -->
-
-## :rocket: Começando
-``` bash
-  # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gofinances.git
-
-  # Entrar no diretório:
-  $ cd gofinances
-```
 
 ## :gear: Iniciando back-end
 ```bash
@@ -65,4 +56,4 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ yarn start
 ```
 
-Feito com ❤️ por Matheus Pires 👋🏻 [Get in touch!](https://github.com/MatheusPires99)
+Feito com ❤️ por Mayko Douglas 👋🏻 [Get in touch!](https://github.com/maykodouglasof)
